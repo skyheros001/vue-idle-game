@@ -1,5 +1,5 @@
 # 挂机放置类小游戏
-
+> 链接：https://skyheros001.github.io/vue-idle-game/
 > 一个全随机的刷装备刷词条小游戏,游戏链接：[couy.xyz](http://couy.xyz)
 
 # 游戏截图
